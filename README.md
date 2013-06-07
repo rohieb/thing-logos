@@ -26,6 +26,8 @@ Following logos are collected here:
  * `camprocket.dxf`: Fairy Dust rocket, often used in association with [CCC](http://ccc.de)
  * `chaosknoten.dxf`: Chaosknoten, often associated with [CCC](http://ccc.de)
  * `cre-logo.dxf`: logo of Tim Pritlove's [CRE](http://cre.fm) podcast (fairly hi-res)
+ * `glider.dxf`: a glider from [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway's_Game of Life).
+ * `gpn13-tetris-s.dxf`: the Tetris _S_ piece, used as a logo for [GPN13](http://entropia.de/GPN13)
  * `netz39.dxf`: mock-up logo for [Netz39, Magdeburg](http://netz39.de)
  * `pesthoernchen.dxf`: Pesthörnchen, often used in association with [CCC](http://ccc.de)
  * `rzl-logo.dxf`: logo of [RaumZeitLabor, Mannheim](http://raumzeitlabor.de)
