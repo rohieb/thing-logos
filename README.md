@@ -4,7 +4,7 @@ Logos for various of my Things
 This repo contains various logos in DXF format which can be put on things
 (e.g. to show affiliation or to promote the respective entity). I often use
 them for my things, for example on [bottle name
-tags](https://github.com/rohieb/bottle-name-tag).
+tags](https://github.com/rohieb/bottle-clip-name-tag).
 
 Most of the logos are fairly low-res, unless otherwise noted. (This is
 neccessary because apparently OpenSCAD cannot process DXF files with curved
