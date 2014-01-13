@@ -24,6 +24,7 @@ Following logos are collected here:
  * `PIRATENsignet.dxf`: logo of [Piratenpartei Deutschland](http://piratenpartei.de)
  * `barcamp-braunschweig.dxf`: logo of [BarCamp Braunschweig](http://barcampbs.mixxt.de)
  * `camprocket.dxf`: Fairy Dust rocket, often used in association with [CCC](http://ccc.de)
+ * `cccac_simple.dxf`: simplified logo of the [CCC Aachen](http://aachen.ccc.de)
  * `chaosknoten.dxf`: Chaosknoten, often associated with [CCC](http://ccc.de)
  * `cre-logo.dxf`: logo of Tim Pritlove's [CRE](http://cre.fm) podcast (fairly hi-res)
  * `glider.dxf`: a glider from [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway's_Game of Life).
