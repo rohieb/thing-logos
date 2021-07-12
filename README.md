@@ -34,5 +34,5 @@ Following logos are collected here:
  * `rzl-logo.dxf`: logo of [RaumZeitLabor, Mannheim](http://raumzeitlabor.de)
  * `sterntastatur.dxf`: logo of the [18th Chaos Communication Congress](http://events.ccc.de/congress/2001/) (hi-res)
  * `stratum0-lowres.dxf`: logo of [Stratum 0, Braunschweig](https://stratum0.org)
-
+ * `jh_alpaka.dxf`: logo of [Jugend hackt](https://jugendhackt.org)
 // vim: set et ts=2 sw=2 tw=0:
