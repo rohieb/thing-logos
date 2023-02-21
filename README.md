@@ -35,5 +35,6 @@ Following logos are collected here:
  * `sterntastatur.dxf`: logo of the [18th Chaos Communication Congress](http://events.ccc.de/congress/2001/) (hi-res)
  * `stratum0-lowres.dxf`: logo of [Stratum 0, Braunschweig](https://stratum0.org)
  * `jh_alpaka.dxf`: logo of [Jugend hackt](https://jugendhackt.org)
+ * `binary-kitchen.dxf`: logo of [Binary Kitchen](https://www.binary-kitchen.de/) (Hackspace Regensburg)
 
 // vim: set et ts=2 sw=2 tw=0:
