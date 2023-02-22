@@ -20,21 +20,21 @@ Contents of this repo
 Following logos are collected here:
 
  * `Backspace_Icon.dxf`: logo of [Hackerspace Bamberg](http://hackerspace-bamberg.de)
- * `Club_mate_logo.dxf`: [Club Mate](http://www.club-mate.de) logo
- * `PIRATENsignet.dxf`: logo of [Piratenpartei Deutschland](http://piratenpartei.de)
  * `barcamp-braunschweig.dxf`: logo of [BarCamp Braunschweig](http://barcampbs.mixxt.de)
+ * `binary-kitchen.dxf`: logo of [Binary Kitchen](https://www.binary-kitchen.de/) (Hackspace Regensburg)
  * `camprocket.dxf`: Fairy Dust rocket, often used in association with [CCC](http://ccc.de)
  * `cccac_simple.dxf`: simplified logo of the [CCC Aachen](http://aachen.ccc.de)
  * `chaosknoten.dxf`: Chaosknoten, often associated with [CCC](http://ccc.de)
+ * `Club_mate_logo.dxf`: [Club Mate](http://www.club-mate.de) logo
  * `cre-logo.dxf`: logo of Tim Pritlove's [CRE](http://cre.fm) podcast (fairly hi-res)
  * `glider.dxf`: a glider from [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway's_Game of Life).
  * `gpn13-tetris-s.dxf`: the Tetris _S_ piece, used as a logo for [GPN13](http://entropia.de/GPN13)
+ * `jh_alpaka.dxf`: logo of [Jugend hackt](https://jugendhackt.org)
  * `netz39.dxf`: mock-up logo for [Netz39, Magdeburg](http://netz39.de)
  * `pesthoernchen.dxf`: Pesthörnchen, often used in association with [CCC](http://ccc.de)
+ * `PIRATENsignet.dxf`: logo of [Piratenpartei Deutschland](http://piratenpartei.de)
  * `rzl-logo.dxf`: logo of [RaumZeitLabor, Mannheim](http://raumzeitlabor.de)
  * `sterntastatur.dxf`: logo of the [18th Chaos Communication Congress](http://events.ccc.de/congress/2001/) (hi-res)
  * `stratum0-lowres.dxf`: logo of [Stratum 0, Braunschweig](https://stratum0.org)
- * `jh_alpaka.dxf`: logo of [Jugend hackt](https://jugendhackt.org)
- * `binary-kitchen.dxf`: logo of [Binary Kitchen](https://www.binary-kitchen.de/) (Hackspace Regensburg)
 
 // vim: set et ts=2 sw=2 tw=0:
